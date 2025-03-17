@@ -1,5 +1,3 @@
-package DUA.praktikumperpus;
-
 public class Buku {
     private String judul;
     private String penulis;
